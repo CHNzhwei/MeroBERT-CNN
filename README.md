@@ -1,6 +1,6 @@
 # MeroBERT-CNN
 
-**A BioBERT-Enhanced Convolutional Fusion Model for Meropenem Trough Concentration Prediction**
+**A BioBERT-Enhanced Convolutional Fusion Model for Meropenem Trough Concentration Prediction in ICU Patients**
 
 ---
 
